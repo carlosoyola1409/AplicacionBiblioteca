@@ -1,7 +1,7 @@
 <%-- 
-    Document   : EditarBiblioteca
-    Created on : 06-ago-2020, 3:57:28
-    Author     : Carlos Oyola
+    Document   : ListarLibrospedidos
+    Created on : 06-ago-2020, 6:51:39
+    Author     : Estrella
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,7 +1,7 @@
 <%-- 
     Document   : EliminarBiblioteca
     Created on : 06-ago-2020, 3:57:42
-    Author     : Estrella
+    Author     : Carlos Oyola
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

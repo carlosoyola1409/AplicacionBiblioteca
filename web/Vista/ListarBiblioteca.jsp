@@ -1,7 +1,7 @@
 <%-- 
     Document   : ListarBiblioteca
     Created on : 06-ago-2020, 3:57:58
-    Author     : Estrella
+    Author     : Carlos Oyola
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
